@@ -80,9 +80,7 @@ Un traitement logiciel (moyenne glissante, hystérésis) permet de réduire les 
 - **Alerte distante** : Notifications push + e-mail via Blynk.
 - **Surveillance continue** via dashboard Blynk.
 
----
 
-## 📂 Structure du Dépôt
 
 
 
