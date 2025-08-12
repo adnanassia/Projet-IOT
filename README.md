@@ -1,6 +1,10 @@
 # Projet-IOT
 # 🔥 Détection de Gaz IoT avec ESP32, MQ-2, OLED et Blynk
 
+réalisé par 
+Assia Adnan
+Abdessamad Benyachchou
+
 ## 📜 Description du Projet
 Ce projet vise à concevoir un système intelligent et connecté de **détection de gaz inflammables** afin de renforcer la sécurité domestique et industrielle.  
 Il repose sur un **ESP32** connecté à un capteur **MQ-2** pour mesurer en temps réel la concentration de gaz tels que le butane, propane, méthane, GPL, hydrogène ou fumée.  
